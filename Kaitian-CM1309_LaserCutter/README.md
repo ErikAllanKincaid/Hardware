@@ -47,16 +47,16 @@ Avg = 149.535
 	2. Get dialog box with button on the bottom.
 		1. Calibrate Axis.
 			1. Dropdown X
-				1. Requested Distance
+				1. Actual Distance
 					1. Enter Average for X before decimal from above, then enter the part average after decimal separately.
-				2. Expected Distance
+				2. Requested Distance
 					1. 150.000
 				3. Write Button. 
 					1. Will send to machine.
 			2. Dropdown Y
-				1. Requested Distance
+				1. Actual Distance
 					1. Enter Average for X before decimal from above, then enter the part average after decimal separately.
-				2. Expected Distance
+				2. Requested Distance
 					1. 150.000
 				3.  Write Button. 
 					1. Will send to machine.
