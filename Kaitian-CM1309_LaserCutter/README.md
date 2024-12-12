@@ -1,6 +1,8 @@
 # Kaitian CM1309 Laser Cutter Calibration
 
-You should not be afraid to calibrate your laser cutter.
+You should not be afraid to calibrate your laser cutter. 
+
+The error is magnified the larger the piece being cut. So someone cutting a small piece may see no calibration problem, then cut a larger piece and see the calibration problem.
 
 ### Materials:
 1. Thin wood stock to cut and measure.
