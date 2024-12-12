@@ -1,4 +1,7 @@
-# Kaitian CM1309 Laser Cutter Calibration
+# Kaitian CM1309 Laser Cutter 
+https://www.noisebridge.net/wiki/Laser_Manual/Workflows
+
+# Calibration
 
 You should not be afraid to calibrate your laser cutter. 
 
