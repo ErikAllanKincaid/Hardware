@@ -55,7 +55,7 @@ Avg = 149.535
 					1. Will send to machine.
 			2. Dropdown Y
 				1. Actual Distance
-					1. Enter Average for X before decimal from above, then enter the part average after decimal separately.
+					1. Enter Average for Y before decimal from above, then enter the part average after decimal separately.
 				2. Requested Distance
 					1. 150.000
 				3.  Write Button. 
