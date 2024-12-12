@@ -10,7 +10,7 @@ You should not be afraid to calibrate your laser cutter.
 
 ## Measuring Procedure:
 1. Put in wood piece and focus laser normally.
-2. Cut what is theoretically a  150mm x 150mm square.
+2. Cut what is theoretically a  150mm x 150mm square. If you have a larger accurate caliper do a bigger square.
 3. Make a X Y grid every 15mm on the square with a straight edge.
 4. Use a digital caliper to measure at each mark on the grid in each direction.
 
