@@ -6,7 +6,7 @@ The error is magnified the larger the piece being cut. So someone cutting a smal
 
 ### Materials:
 1. Thin wood stock to cut and measure.
-	1. Thin enough to cut with single pass at 75%
+	1. Thin enough to cut with single pass.
 2. Accurate Digital Calipers.
 3. Calculator.
 
