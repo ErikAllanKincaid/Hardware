@@ -76,6 +76,9 @@ Avg = 149.535
 
 # Kaitian CM1309 Laser Cutter Calibrated!
 
+# Laser mirror calibration with physical screws. 
+
+https://www.youtube.com/watch?v=0lUomn0nM08
 
 
 
